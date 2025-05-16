@@ -11,3 +11,7 @@ A non-official partial implementation of the paper "Let it Snow! Animating Stati
 ## 注意事项
 
 记得创建对应环境以及安装子模块，详情参见`3DGSREADME.md`原MD文件。
+
+## 参考文献
+
+[1] Gal Fiebelman, Hadar Averbuch-Elor, Sagie Benaim. *Let it Snow! Animating Static Gaussian Scenes With Dynamic Weather Effects*. arXiv:2504.05296, 2025.
